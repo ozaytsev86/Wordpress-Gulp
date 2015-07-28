@@ -1,0 +1,15 @@
+/*
+ Theme Name:   myAwesomeTheme - Theme
+ Theme URI:    
+ Description:  This is a child theme
+ Author:       Aleksander Zaytsev
+ Author URI:   
+ Template:     myAwesomeTheme
+ Version:      1.0.0
+ Tags:         
+ Text Domain:  myAwesomeTheme
+*/
+
+@import url("../fatherTheme/style.css");
+
+@import url("my-styles.scss");

@@ -1,3 +1,18 @@
+######################
+# Project #
+######################
+bower_components/
+node_modules/
+suburbus13-release/
+src/dist/
+src/theme/assets/css/style.css
+src/theme/assets/css/*.min.css
+src/theme/assets/js/*.min.js
+.env
+
+######################
+# Wordpress #
+######################
 *.log
 .htaccess
 sitemap.xml
@@ -11,3 +26,14 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
 wp-content/wp-cache-config.php
+
+######################
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+  "name": "suburbus13-theme",
+  "version": "0.0.0",
+  "authors": [
+    "Aleksander Zaytsev <aleksander.zaytsev@gmail.com>",
+    "Alberto Fernandez <albertofdzm@gmail.com>"
+  ],
+  "license": "Copyright",
+  "homepage": "http://myAwesomeTheme.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
