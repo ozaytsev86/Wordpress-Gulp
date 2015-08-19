@@ -8,19 +8,19 @@ Thanks :)
 
 # # Dependencies #
 
-gulp - https://www.npmjs.com/package/gulp
-browserSync - http://www.browsersync.io/docs/gulp/
-changed - https://www.npmjs.com/package/gulp-changed
-del - https://www.npmjs.com/package/del
-dirSync - https://www.npmjs.com/package/gulp-dir-sync
-dotenv - https://www.npmjs.com/package/dotenv
-gettext - https://www.npmjs.com/package/node-gettext
-gutil - https://www.npmjs.com/package/gutil
-notify - https://www.npmjs.com/package/gulp-notify
-runSequence - https://www.npmjs.com/package/run-sequence
-sass - https://www.npmjs.com/package/gulp-sass
-watch - https://www.npmjs.com/package/gulp-watch
-zip - https://www.npmjs.com/package/gulp-zip
+* gulp - https://www.npmjs.com/package/gulp
+* browserSync - http://www.browsersync.io/docs/gulp/
+* changed - https://www.npmjs.com/package/gulp-changed
+* del - https://www.npmjs.com/package/del
+* dirSync - https://www.npmjs.com/package/gulp-dir-sync
+* dotenv - https://www.npmjs.com/package/dotenv
+* gettext - https://www.npmjs.com/package/node-gettext
+* gutil - https://www.npmjs.com/package/gutil
+* notify - https://www.npmjs.com/package/gulp-notify
+* runSequence - https://www.npmjs.com/package/run-sequence
+* sass - https://www.npmjs.com/package/gulp-sass
+* watch - https://www.npmjs.com/package/gulp-watch
+* zip - https://www.npmjs.com/package/gulp-zip
 
 # # Little tasks description #
 
