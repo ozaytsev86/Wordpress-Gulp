@@ -24,14 +24,14 @@ Thanks :)
 
 # # Little tasks description #
 
-clean - remove the folder with generated dist
-browser-sync - reload browser after .scss, .php or .po modified
-styles - compile changed scss files and copy them to dist
-php - just copy php files to dist
-assets - copy assets files to dist
-languages - generate .mo files and copy .po and .mo files to dist
-sync - copy all we need from dist to wp-content folder
-snapshot - generate a .zip of dist
-watch - look on modified files, generate .scss, .php, .po and reload browser
-dist - compile .scss, .php, .po and copy them with assets to dist folder
-default - remove the folder with dist, generate dist, start broser sync and watch
+* clean - remove the folder with generated dist
+* browser-sync - reload browser after .scss, .php or .po modified
+* styles - compile changed scss files and copy them to dist
+* php - just copy php files to dist
+* assets - copy assets files to dist
+* languages - generate .mo files and copy .po and .mo files to dist
+* sync - copy all we need from dist to wp-content folder
+* snapshot - generate a .zip of dist
+* watch - look on modified files, generate .scss, .php, .po and reload browser
+* dist - compile .scss, .php, .po and copy them with assets to dist folder
+* default - remove the folder with dist, generate dist, start broser sync and watch
